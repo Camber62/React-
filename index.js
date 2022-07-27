@@ -1,0 +1,1 @@
+ReactDom.render('<h1>Hi6787j666666666789ml;ou;i</h1>',document.getElementById("app"))
